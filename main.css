@@ -6,3 +6,22 @@
 body {
     background-color: lightblue;
 }
+
+p {
+    color:blue
+}
+#example-of-id {
+    font-weight: 400;
+}
+
+.example-of-class {
+    font-size: x-large;
+}
+a:hover {
+    color:brown
+}
+
+p::first-letter {
+    font-weight: 500;
+    color: green;
+}
